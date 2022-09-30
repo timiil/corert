@@ -1,2 +1,2 @@
 # corert
-dotnet 5 CoreRT
+dotnet 6 sdk and some tools
